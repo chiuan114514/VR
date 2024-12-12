@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-",
-      "name": "自由廣場",
+      "name": "自由",
       "levels": [
         {
           "tileSize": 256,
@@ -40,7 +40,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
