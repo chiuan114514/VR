@@ -221,7 +221,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
